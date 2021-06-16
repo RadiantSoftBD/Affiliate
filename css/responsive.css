@@ -110,10 +110,7 @@
 		display:none;
 	}
 	
-	.header-style-five .main-box{
-		background-color:#20244e;
-	}
-	
+
 	.page-title{
 		padding:110px 0px;
 	}
@@ -415,7 +412,7 @@
 		float:none !important;
 		margin:0px !important;
 		width:100% !important;
-		background:#2c2c2c;
+		background:gainsboro;
 		border:1px solid #ffffff;
 		border-top:none;
 	}
@@ -507,7 +504,7 @@
 		padding:12px 20px 10px !important;
 		line-height:22px;
 		color:#ffffff;
-		background:#2c2c2c;
+		
 		text-align:left;
 		font-size:14px;
 		font-weight:400;
